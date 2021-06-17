@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACE,sBAAuB,CACvB,iBACF,CACA,KACE,oBAAa,CAAb,YAAa,CACb,eAAgB,CAChB,qCAA8B,CAA9B,6BACF","file":"main.c4e0b785.chunk.css","sourcesContent":["* {\n  font-family: sans-serif;\n  text-align: center;\n}\n.top {\n  display: flex;\n  margin-top: 20px;\n  justify-content: space-between;\n}\n"]}

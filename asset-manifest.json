@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://satyajitpany.github.io/csb-n4pqs/static/css/main.c4e0b785.chunk.css",
+    "main.js": "https://satyajitpany.github.io/csb-n4pqs/static/js/main.c21cf8a3.chunk.js",
+    "main.js.map": "https://satyajitpany.github.io/csb-n4pqs/static/js/main.c21cf8a3.chunk.js.map",
+    "runtime-main.js": "https://satyajitpany.github.io/csb-n4pqs/static/js/runtime-main.fcb324bc.js",
+    "runtime-main.js.map": "https://satyajitpany.github.io/csb-n4pqs/static/js/runtime-main.fcb324bc.js.map",
+    "static/js/2.5caff35c.chunk.js": "https://satyajitpany.github.io/csb-n4pqs/static/js/2.5caff35c.chunk.js",
+    "static/js/2.5caff35c.chunk.js.map": "https://satyajitpany.github.io/csb-n4pqs/static/js/2.5caff35c.chunk.js.map",
+    "index.html": "https://satyajitpany.github.io/csb-n4pqs/index.html",
+    "static/css/main.c4e0b785.chunk.css.map": "https://satyajitpany.github.io/csb-n4pqs/static/css/main.c4e0b785.chunk.css.map",
+    "static/js/2.5caff35c.chunk.js.LICENSE.txt": "https://satyajitpany.github.io/csb-n4pqs/static/js/2.5caff35c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb324bc.js",
+    "static/js/2.5caff35c.chunk.js",
+    "static/css/main.c4e0b785.chunk.css",
+    "static/js/main.c21cf8a3.chunk.js"
+  ]
+}
